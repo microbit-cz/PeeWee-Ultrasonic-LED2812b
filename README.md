@@ -9,7 +9,7 @@
 ## Kroky na složení pouzdra:
 
 ### Krok 1:
-
+* Stáhněte a vytiskněte si na 3d tiskárně [tyto](./US_Kryt_STL) části.
 ### Krok 2:
 
 ### Krok 3:
