@@ -17,7 +17,7 @@
 
 ### Krok 3:
 * Dále připevněte držák k senzoru:
-<img src="./Pictures/20230614_123509347_iOS_edited.jpg" width="350" height="350">
+<img src="./Pictures/20230614_123509347_iOS_edited.jpg" width="500" height="500">
 ### Krok 4:
 
 ### Krok 5:
