@@ -11,7 +11,8 @@
 ### Krok 1:
 * Stáhněte a vytiskněte si na 3d tiskárně [tyto](./US_Kryt_STL) části.
 ### Krok 2:
-
+* Po vytisknutí připentěte servo k držáku:
+ <img src="./Pictures/20230614_123503609_iOS_edited.jpg" 
 ### Krok 3:
 
 ### Krok 4:
