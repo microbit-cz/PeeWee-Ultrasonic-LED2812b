@@ -25,7 +25,7 @@
 
 ### Krok 5:
 * Poté vezmeme [ultrasonický senzor](https://www.mall.cz/hracky-rozvoj-aktivita/ostatni-hy-srf05-ultrazvukovy-senzor-100111860112?):
-<img src="./Pictures/20230614_123743625_iOS_edited.jpg" width="600" height="350">
+<img src="./Pictures/20230614_123743625_iOS_edited.jpg" width="600" height="400">
 
 ### Krok 6:
 * A na připojíme na něj krimpovací kabely:
