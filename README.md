@@ -14,7 +14,8 @@
 * Po vytisknutí připentěte servo k držáku:
 <img src="./Pictures/20230614_123503609_iOS_edited.jpg" width="350" height="350">
 ### Krok 3:
-
+*Dále připevněte držák k senzoru:
+<img src="./Pictures/20230614_123509347_iOS_edited.jpg" width="350" height="350">
 ### Krok 4:
 
 ### Krok 5:
