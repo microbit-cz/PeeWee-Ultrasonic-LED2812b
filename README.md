@@ -29,16 +29,16 @@
 
 ### Krok 6:
 * A na připojíme na něj krimpovací kabely:
-<img src="./Pictures/20230614_123810743_iOS_edited.jpg" width="600" height="350">
+<img src="./Pictures/20230614_123810743_iOS_edited.jpg" width="600" height="400">
 
 ### Krok 7:
 * Dalším krokem vložíme ultrasonický senzor do senzorové části krytu:
-<img src="./Pictures/20230614_123835932_iOS_edited.jpg" width="600" height="350">
+<img src="./Pictures/20230614_123835932_iOS_edited.jpg" width="600" height="400">
 
 ### Krok 8:
 * Posledním větším krokem je na nasadit led pásky na kryt:
-<img src="./Pictures/20230614_124055014_iOS_edited.jpg" width="600" height="350">
+<img src="./Pictures/20230614_124055014_iOS_edited.jpg" width="600" height="400">
 
 ### Krok 9:
 * A teď vše zakryjeme víčkem a máme hotovo:
-<img src="./Pictures/20230614_124512972_iOS_edited.jpg" width="600" height="350">
+<img src="./Pictures/20230614_124512972_iOS_edited.jpg" width="600" height="400">
