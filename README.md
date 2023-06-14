@@ -41,4 +41,4 @@
 
 ### Krok 9:
 * A teď vše zakryjeme víčkem a máme hotovo:
-<img src="./Pictures/20230614_124512972_iOS_edited.jpg" width="600" height="450">
+<img src="./Pictures/20230614_124512972_iOS_edited.jpg" width="600" height="500">
