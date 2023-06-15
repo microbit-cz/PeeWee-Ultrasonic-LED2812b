@@ -42,6 +42,3 @@
 ### Step 9:
 * And now we cover everything with the lid and we're done:
 <img src="./Pictures/20230614_124512972_iOS_edited.jpg" width="300" height="225">
-
-
-Translated with www.DeepL.com/Translator (free version)
