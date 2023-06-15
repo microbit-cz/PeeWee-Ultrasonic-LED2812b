@@ -28,7 +28,7 @@
 <img src="./Pictures/20230614_123743625_iOS_edited.jpg" width="300" height="200">
 
 ### Step 6:
-*And attach the crimp cables to it:
+* And attach the crimp cables to it:
 <img src="./Pictures/20230614_123810743_iOS_edited.jpg" width="300" height="200">
 
 ### Step 7:
