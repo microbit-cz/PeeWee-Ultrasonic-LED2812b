@@ -13,32 +13,32 @@
   
 ### Krok 2:
 * Po vytisknutí připentěte servo k držáku:
-<img src="./Pictures/20230614_123503609_iOS_edited.jpg" width="600" height="300">
+<img src="./Pictures/20230614_123503609_iOS_edited.jpg" width="300" height="150">
 
 ### Krok 3:
 * Dále připevněte držák k senzoru:
-<img src="./Pictures/20230614_123509347_iOS_edited.jpg" width="600" height="300">
+<img src="./Pictures/20230614_123509347_iOS_edited.jpg" width="300" height="150">
 
 ### Krok 4:
 * Následně zatlačte držák na sensor a nebojte se trochu přitlačit:
-<img src="./Pictures/20230614_123606932_iOS_edited.jpg" width="600" height="300">
+<img src="./Pictures/20230614_123606932_iOS_edited.jpg" width="300" height="150">
 
 ### Krok 5:
 * Poté vezmeme [ultrasonický senzor](https://www.mall.cz/hracky-rozvoj-aktivita/ostatni-hy-srf05-ultrazvukovy-senzor-100111860112?):
-<img src="./Pictures/20230614_123743625_iOS_edited.jpg" width="600" height="400">
+<img src="./Pictures/20230614_123743625_iOS_edited.jpg" width="300" height="200">
 
 ### Krok 6:
 * A na připojíme na něj krimpovací kabely:
-<img src="./Pictures/20230614_123810743_iOS_edited.jpg" width="600" height="400">
+<img src="./Pictures/20230614_123810743_iOS_edited.jpg" width="300" height="200">
 
 ### Krok 7:
 * Dalším krokem vložíme ultrasonický senzor do senzorové části krytu:
-<img src="./Pictures/20230614_123835932_iOS_edited.jpg" width="600" height="400">
+<img src="./Pictures/20230614_123835932_iOS_edited.jpg" width="300" height="200">
 
 ### Krok 8:
 * Posledním větším krokem je na nasadit led pásky na kryt:
-<img src="./Pictures/20230614_124055014_iOS_edited.jpg" width="600" height="400">
+<img src="./Pictures/20230614_124055014_iOS_edited.jpg" width="300" height="200">
 
 ### Krok 9:
 * A teď vše zakryjeme víčkem a máme hotovo:
-<img src="./Pictures/20230614_124512972_iOS_edited.jpg" width="600" height="450">
+<img src="./Pictures/20230614_124512972_iOS_edited.jpg" width="300" height="225">
