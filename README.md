@@ -10,7 +10,7 @@
 ## Steps to assemble the housing:
 
 ### Step 1:
-* Download and print [these](./Parts/Parts STL) parts on your 3d printer.
+* Download and print [these](./Parts/Parts_STL) parts on your 3d printer.
   
 ### Step 2:
 * After printing, attach the servo to the bracket:
