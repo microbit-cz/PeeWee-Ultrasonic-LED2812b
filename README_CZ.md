@@ -10,7 +10,7 @@
 ## Kroky na složení pouzdra:
 
 ### Krok 1:
-* Stáhněte a vytiskněte si na 3d tiskárně [tyto](./US_Kryt_STL) části.
+* Stáhněte a vytiskněte si na 3d tiskárně [tyto](./Parts/Parts_STL) části.
   
 ### Krok 2:
 * Po vytisknutí připentěte servo k držáku:
