@@ -25,7 +25,7 @@
 <img src="./Pictures/20230614_123606932_iOS_edited.jpg" width="300" height="150">
 
 ### Step 5:
-* Then we take the [ultrasonic sensor](https://www.mall.cz/hracky-rozvoj-aktivita/ostatni-hy-srf05-ultrazvukovy-senzor-100111860112?):
+* Then we take the ultrasonic sensor:
 <img src="./Pictures/20230614_123743625_iOS_edited.jpg" width="300" height="200">
 
 ### Step 6:
