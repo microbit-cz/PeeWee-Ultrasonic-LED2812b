@@ -25,7 +25,7 @@
 <img src="./Pictures/20230614_123606932_iOS_edited.jpg" width="300" height="150">
 
 ### Krok 5:
-* Poté vezmeme [ultrasonický senzor](https://www.mall.cz/hracky-rozvoj-aktivita/ostatni-hy-srf05-ultrazvukovy-senzor-100111860112?):
+* Poté vezmeme ultrasonický senzor:
 <img src="./Pictures/20230614_123743625_iOS_edited.jpg" width="300" height="200">
 
 ### Krok 6:
