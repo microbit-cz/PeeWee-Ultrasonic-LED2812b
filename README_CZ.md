@@ -13,7 +13,7 @@
 * Stáhněte a vytiskněte si na 3d tiskárně [tyto](./Parts/Parts_STL) části.
   
 ### Krok 2:
-* Po vytisknutí připentěte servo k držáku:
+* Po vytisknutí dejte servo páku do výřezu na kostce a zevnitř přidělejte šroub šroubovákem:
 
     <img src="./Pictures/Attaching the servo.jpg" width="300" height="150">
 
