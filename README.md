@@ -13,7 +13,7 @@
 * Download and print [these](./Parts/Parts_STL) parts on your 3d printer.
   
 ### Step 2:
-* After printing, attach the servo to the bracket:
+* After printing, put the servo lever into the cutout on the cube and add a screw from the inside with a screwdriver:
 
     <img src="./Pictures/Attaching the servo.jpg" width="300" height="150">
 
