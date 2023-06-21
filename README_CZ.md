@@ -3,7 +3,7 @@
 ## Věci, které budete potřebovat:
 
 * [Ultrasonický senzor](https://aliexpress.com/item/1005001621997017.html)
-* [Serovmotor s pákami](https://aliexpress.com/item/32898059654.html)
+* [Servomotor s pákami](https://aliexpress.com/item/32898059654.html)
 * [Led pásek](https://aliexpress.com/item/4000148759042.html)
 * 16 gramů pla filamentu
 
